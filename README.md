@@ -1,2 +1,2 @@
 # Jenkins-EKS-terraform
-Using terraform (Iac) tool to install AWS EKS directly.
+Using  Jenkins to automate and install AWS EKS directly.
