@@ -9,8 +9,8 @@ terraform {
 
 
   backend "s3" {
-    bucket         = "jenkins-terraform-aws"
-    key            = "smartgigsctf01/terraform.tfstate"
+    bucket         = "smartgigsctf01"
+    key            = "smart/terraform.tfstate"
     region         = "eu-north-1"
     ##dynamodb_table = "terraform-eks-state-locks"
     ##encrypt        = true
